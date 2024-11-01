@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP_GMaps2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-19 18:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
+"Language-Team: Cláudio Esperança <cesperanc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2\n"
+"X-Poedit-SearchPath-0: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2\n"
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:140
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:143
+msgid "WP_GMaps2 options page"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:140
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:143
+msgid "WP_GMaps2 Configurarion"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:163
+msgid "Options saved"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:167
+msgid "WP GMaps Options"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:170
+msgid "Google Maps Key"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:171
+#, php-format
+msgid "Please enter a Google Maps API key. (<a %s>Get your key</a>)"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:172
+msgid "What is this"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: /home/cesperanc/Projects/www/emargarido/wp-content/plugins/wp_gmaps2/wp_gmaps2.php:187
+#, php-format
+msgid "You must <a %1$s>enter your Google Maps API key</a> for <strong>WP GMaps</strong> to work."
+msgstr ""
+
